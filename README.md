@@ -1,2 +1,4 @@
-# Project-Gemini
-A collaborative Minecraft survival experiment driven by absolute isolation. Two players cycle a single world save with zero out-of-game communication, navigating a changing world entirely through environmental clues.
+# Project Gemini
+A Minecraft experiment. Two players that will never meet, sharing a world that neither will see. 
+Rules: Each player occupies the world for exactly one day. At the end of the cycle, the world save file must be zipped, exported, and passed to the next player. Players may never communicate outside of the world data itself. No voice calls, no chat logs, no texts. The only proof of the other's existence is the physical evidence left behind in the blocks. Do not attempt to place signs or write written books. 
+Instructions: To import Project Gemini: First, close Minecraft and all related processes to prevent corruption. Then open your worlds folder. For modrinth app, it should be profiles/[modpack name]/saves. Download the attached .zip files into there. Then, unzip the file. This can be done with an online unzipper or the built in windows extract feature. Finally, launch Minecraft and play the world! To export, go to the same folder and enter the Project Gemini world folder. Select everything inside, and click compress. Title the .zip it will create "Project Gemini - Day x". Then upload it to the drive.
