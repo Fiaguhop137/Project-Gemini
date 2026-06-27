@@ -7,7 +7,7 @@ A Minecraft experiment. Two players who will never meet, sharing a single world 
     - This can be checked with the day_counter feature in the 1.21.9+ f3 screen. 
 - At the end of that cycle, the world save must be zipped, exported, and passed to the next player.
 - Players may never communicate outside of the world data itself.
-- No voice calls, no chat logs, and no texts.
+- No voice calls, no chat logs, and no texts about the world.
 - The only proof of the other player's existence is the physical evidence left behind in the blocks.
 - Do not place signs or write books.
 
